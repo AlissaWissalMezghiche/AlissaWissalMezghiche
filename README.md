@@ -42,21 +42,21 @@
 ---
 
 ### 📌 Research & Interests
-- 🤖 Large Language Models (LLMs)
-- 🧠 AI-powered chatbots & conversational systems
-- 🌍 Citizen participation platforms using AI
-- 📊 Data-driven decision support systems
+- Large Language Models (LLMs)
+- AI-powered chatbots & conversational systems
+- Citizen participation platforms using AI
+- Data-driven decision support systems
 
 ---
 
 ### 📚 Publications, Research & Ongoing Work
 
-- 📝 **Scientific Writing & Research**
+- **Scientific Writing & Research**
   - Actively involved in **research-oriented projects** in AI and Data Science
   - Experience working on **academic articles, technical reports, and research prototypes**
   - Focused on publishing research related to **AI-driven decision systems, NLP, and intelligent platforms**
 
-- 🤖 **Chatbots & Conversational AI**
+- **Chatbots & Conversational AI**
   - Design and development of **intelligent chatbots** for real-world applications
   - Experience with **Retrieval-Augmented Generation (RAG)** architectures for document-based question answering
   - Work on **hybrid LLM architectures**, combining:
@@ -64,17 +64,17 @@
     - Information Retrieval systems
     - Rule-based and knowledge-based components
 
-- 🧠 **Advanced LLM Architectures**
+- **Advanced LLM Architectures**
   - Research interest in **hybrid AI systems** integrating symbolic AI with deep learning
   - Exploration of **LLM-based reasoning**, contextual understanding, and semantic enrichment
   - Focus on improving **accuracy, explainability, and reliability** of AI systems
 
-- 🌐 **Digital Twins & Intelligent Systems**
+- **Digital Twins & Intelligent Systems**
   - Strong interest in **Digital Twins** for smart cities, infrastructure, and decision support
   - Exploring the integration of **AI, data streams, simulations, and NLP** within Digital Twin frameworks
   - Vision: combining **LLMs + Digital Twins** to support predictive analysis and intelligent decision-making
 
-- 🔬 **Research Themes of Interest**
+- **Research Themes of Interest**
   - Conversational AI & Intelligent Assistants  
   - Retrieval-Augmented Generation (RAG)  
   - Hybrid AI architectures (LLMs + Knowledge-based systems)  
