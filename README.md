@@ -22,4 +22,4 @@
 - **Publications:** Focus on AI explainability and intelligent decision-making platforms.
 
 ---
-📫 **Contact:** [w_mezghiche@estin.dz](mailto:w_mezghiche@estin.dz) | [LinkedIn](#)
+📫 **Contact:** [w_mezghiche@estin.dz](mailto:w_mezghiche@estin.dz)
