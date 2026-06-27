@@ -1,4 +1,3 @@
-# 👩‍💻 Alissa Wissal
 **AI & Data Science Engineer | Full Stack Web Developer**  
 *Designing intelligent systems and transforming data into impactful solutions.*
 
